@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	margin: 0;
+	background-color: #112233;
+	height: 100%;
+}
+
+#base {
+	margin: 24px auto 0 auto;
+	padding: 0;
+	font: bold 11px/ 1.5em Verdana;
+	width: 740px;
+	background-color: #F4F4F4;
+}
+
+#content {
+	padding: 170px 20px 20px 20px;
+	background: url("/images/css/corners_cap_bot.gif") no-repeat left bottom;
+}
+
+.embeddedPhoto {
+	border: 2px solid black;
+	padding: 0px;
+	margin: 10px;
+	float: left;
+}
