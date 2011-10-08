@@ -1,0 +1,1 @@
+This is all the source code for my personal website. It's not much but it gives me a place to practice some simple web development and share stuff with the world.
